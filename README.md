@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amirhossein Hafezaghili</h1>
 <h3 align="center">A passionate data analyst and python developer</h3>
-
+<p></p>
 - 🔭 I’m currently working on [Django Ecommerce Project](https://github.com/HafezAghili/django-ecommerce-project)
 
 - 🌱 I’m currently learning **machine learning**
@@ -22,3 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafezaghili&show_icons=true&locale=en" alt="hafezaghili" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafezaghili&" alt="hafezaghili" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafezaghili&label=Profile%20views&color=0e75b6&style=flat" alt="hafezaghili" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafezaghili" alt="hafezaghili" /></a> </p>
